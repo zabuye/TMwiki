@@ -1,0 +1,3 @@
+Yes or no votes require at least 50% majority to be accepted.
+Issues where more than one option might be presented is subject to matrix voting, where members list the order of their preferences by giving the highest regard option an A, the next best a B, and so on for as many possibilities as practical.
+All documents and roles are subject to revision, and suggestions can be made by anyone. Votes are to be held at least once a month, or more as new situations arise.
